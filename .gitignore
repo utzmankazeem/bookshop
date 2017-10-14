@@ -1,0 +1,5 @@
+vagrantfile
+.vagrant
+/uploads
+/includes/db.php
+/phpmyadmin
